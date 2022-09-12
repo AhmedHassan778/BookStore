@@ -1,0 +1,7 @@
+D:\.net projects\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csproj.AssemblyReference.cache
+D:\.net projects\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net projects\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfoInputs.cache
+D:\.net projects\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfo.cs
+D:\.net projects\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csproj.CoreCompileInputs.cache
+D:\.net projects\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cache
+D:\.net projects\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cs
